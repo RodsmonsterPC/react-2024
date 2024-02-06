@@ -1,0 +1,7 @@
+.container {
+  height: 20rem;
+  width: 20rem;
+  background: linear-gradient(90deg, rgb(159, 251, 96) 19%, rgb(104, 240, 12) 49%, rgb(34, 171, 26) 90%);
+  padding: 5rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}/*# sourceMappingURL=products.module.css.map */

@@ -1,0 +1,14 @@
+.card {
+  border-radius: 20px;
+  width: 20rem;
+  margin: 1rem;
+}
+.card img {
+  width: 10rem;
+  height: 10rem;
+  color: gray;
+}
+.card .cardImage {
+  background-color: gray;
+  height: 12rem;
+}/*# sourceMappingURL=CardSeller.module.css.map */

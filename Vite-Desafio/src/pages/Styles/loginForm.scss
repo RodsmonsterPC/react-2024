@@ -1,0 +1,27 @@
+.formLogin {
+  background: rgb(228, 237, 236);
+  width: 40rem;
+  border-radius: 10px;
+  margin-top: 5rem;
+  h1 {
+    text-align: center;
+  }
+  .btn-forms {
+    display: flex;
+    justify-content: space-between;
+    Button {
+      width: 6rem;
+      height: 2.5rem;
+    }
+    a {
+      width: 6rem;
+      height: 2.5rem;
+      text-decoration: none;
+      background-color: #0d6efd;
+      text-align: center;
+      padding-top: 0.4rem;
+      border-radius: 10px;
+      color: aliceblue;
+    }
+  }
+}

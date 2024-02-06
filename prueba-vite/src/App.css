@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body {
+  background: linear-gradient(
+    90deg,
+    rgba(236, 231, 204, 1) 19%,
+    rgba(244, 201, 114, 1) 49%,
+    rgba(207, 210, 161, 1) 90%
+  );
+}

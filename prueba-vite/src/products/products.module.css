@@ -1,0 +1,21 @@
+.productCard {
+  width: 20rem;
+  height: 14rem;
+  background: linear-gradient(90deg, rgb(236, 204, 204) 19%, rgb(244, 242, 114) 49%, rgb(210, 161, 161) 90%);
+  padding-bottom: 3rem;
+  border: 1px solid black;
+  margin-bottom: 1rem;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.infoProduct {
+  display: flex;
+  flex-direction: column;
+  font-size: 1.5rem;
+}
+.infoProduct h1 {
+  font-size: 3rem;
+}
+.infoProduct button {
+  font-size: 1rem;
+}/*# sourceMappingURL=products.module.css.map */

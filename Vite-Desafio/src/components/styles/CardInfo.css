@@ -1,0 +1,28 @@
+.CardInfo {
+  width: 567px;
+  height: 308px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0.5rem;
+  border-radius: 20px;
+}
+.CardInfo .textInfo {
+  margin-left: 3rem;
+}
+.CardInfo .textInfo h1 {
+  color: #ffffff;
+}
+.CardInfo .textInfo a {
+  border: 1px solid #f42d38;
+  background-color: #f42d38;
+  text-decoration: none;
+  color: #ffffff;
+  width: 10rem;
+  height: 23px;
+  border-radius: 20px;
+}
+.CardInfo .textInfo h2 {
+  color: #000000;
+}/*# sourceMappingURL=CardInfo.css.map */

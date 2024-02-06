@@ -1,0 +1,22 @@
+.containerMain {
+  display: flex;
+  flex-direction: column;
+  margin-left: 3.5rem;
+}
+.containerMain .productsList {
+  display: flex;
+  align-items: center;
+  width: 64rem;
+  flex-direction: column;
+  margin-left: 12rem;
+}
+.containerMain .productsList h2 {
+  padding-right: 7rem;
+}
+.containerMain .productsList p {
+  padding-right: 7rem;
+}
+.containerMain .WrapperList {
+  display: flex;
+  flex-wrap: wrap;
+}/*# sourceMappingURL=MainPage.css.map */

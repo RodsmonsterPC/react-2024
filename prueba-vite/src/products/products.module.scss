@@ -1,0 +1,28 @@
+.productCard {
+  width: 20rem;
+  height: 14rem;
+  background: linear-gradient(
+    90deg,
+    rgba(236, 204, 204, 1) 19%,
+    rgba(244, 242, 114, 1) 49%,
+    rgba(210, 161, 161, 1) 90%
+  );
+  padding-bottom: 3rem;
+  border: 1px solid black;
+  margin-bottom: 1rem;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.infoProduct {
+  h1 {
+    font-size: 3rem;
+  }
+  button {
+    font-size: 1rem;
+  }
+  display: flex;
+  flex-direction: column;
+  font-size: 1.5rem;
+}
+
+//Instalar sass npm install -D sass

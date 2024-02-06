@@ -1,0 +1,23 @@
+.container {
+  width: 25rem;
+  height: 15rem;
+  background: linear-gradient(
+    90deg,
+    rgba(170, 165, 75, 1) 0%,
+    rgba(222, 206, 20, 1) 35%,
+    rgba(148, 152, 0, 1) 100%
+  );
+  padding: 3rem;
+  margin: 2rem;
+  font-family: "Big Shoulders Display", cursive;
+  border-radius: 10px;
+  button {
+    margin: 1rem;
+    background: linear-gradient(
+      90deg,
+      rgba(53, 205, 191, 1) 0%,
+      rgba(40, 176, 187, 1) 45%,
+      rgba(0, 51, 80, 1) 100%
+    );
+  }
+}

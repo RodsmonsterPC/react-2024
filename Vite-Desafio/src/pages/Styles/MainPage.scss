@@ -1,0 +1,23 @@
+.containerMain {
+  display: flex;
+  flex-direction: column;
+  margin-left: 3.5rem;
+
+  .productsList {
+    display: flex;
+    align-items: center;
+    width: 64rem;
+    flex-direction: column;
+    margin-left: 12rem;
+    h2 {
+      padding-right: 7rem;
+    }
+    p {
+      padding-right: 7rem;
+    }
+  }
+  .WrapperList {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}

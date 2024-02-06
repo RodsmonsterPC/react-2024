@@ -1,0 +1,18 @@
+.card {
+  width: 12rem;
+  margin: 1rem;
+  border: none;
+  img {
+    width: 12rem;
+    height: 12rem;
+    margin-bottom: 1rem;
+    border-radius: 20px;
+    border: 1px solid black;
+  }
+  p {
+    font-size: 0.8rem;
+  }
+  h3 {
+    font-size: 1rem;
+  }
+}

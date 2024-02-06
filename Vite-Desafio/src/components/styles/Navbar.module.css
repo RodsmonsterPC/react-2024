@@ -1,0 +1,7 @@
+.containerNav {
+  display: flex;
+  justify-content: space-between;
+}
+.containerNav a {
+  margin: 0.5rem;
+}/*# sourceMappingURL=Navbar.module.css.map */
